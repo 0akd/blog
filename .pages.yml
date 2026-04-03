@@ -1,0 +1,34 @@
+media:
+  input: blog/images
+  output: /images
+
+content:
+  - name: blog
+    label: Philosophy Essays
+    type: collection
+    path: blog
+    create: true
+    delete: true
+    view:
+      fields: [title, pubDate, tags]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: pubDate
+        label: Publish Date
+        type: date
+        required: true
+      - name: description
+        label: Short Description
+        type: text
+      - name: tags
+        label: Tags
+        type: list
+        items:
+          type: string
+      - name: body
+        label: Content
+        type: rich-text
+        required: true
