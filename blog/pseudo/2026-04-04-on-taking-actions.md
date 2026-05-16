@@ -1,17 +1,12 @@
 ---
-title: on taking actions
+title: The only direction to have inclination towards
 pubDate: 2026-04-04
 description: "i dont know "
 tags: life
 ---
-its been quite a while that i have observed myself 
+For a long time i have been running away from my incompleteness . But recently i had time to really observe . i was basically attaching myself to different entities of space time domain to fill my hunger .
 
-there are few findings that i think that were really strange
+it was quite frustrating in pursuit of getting fulfilled i was trying to gain more knowledge but it was all in vain
 
-- i was responding to things impulsively and in a predetermined manner and not consciously
-- i never did something out of love or genuine anticipation, all things i ever did was only because i wanted to extract something or achieve a position, configuration or a situationship.
-- in my mind i was always the centre , i never thought from someone else pov 
-- 
-
-well its
+at last i came to this , see i know i need someone or something to be fulfilled why not choose only one things instead of running towards many things this one thing can be a guru or any entity 
 
