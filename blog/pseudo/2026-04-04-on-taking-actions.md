@@ -10,5 +10,5 @@ it was quite frustrating in pursuit of getting fulfilled i was trying to gain mo
 
 at last i came to this , see i know i need someone or something to be fulfilled why not choose only one things instead of running towards many things this one thing can be a guru or any entity , i chose an action as an last attachment  that is speaking.
 
-see when you speak you do this so as for a receiver so this action itself is not complete on its own as it is dependent on an external variable so its quite not independent . but when you speak from a realization that the receiver that is in you or any other is just an illusion you or someone else made from the moment you were born then you speak in the present 
+see when you speak you do this so as for a receiver so this action itself is not complete on its own as it is dependent on an external variable so its quite not independent . but when you speak from a realization that the receiver that is in you or any other is just an illusion you or someone else made from the moment you were born then you speak in the present . One of the major reason for this dualistic nature (transmitter and receiver) of your self is because of your skin boundary that you have so you think thatbyou are something (transmitter ) and you should consume (reciever) .
 
