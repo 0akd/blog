@@ -1,14 +1,14 @@
 ---
 title: re
 pubDate: 2026-04-04
-description: In high-fidelity BETSE 1.5.0 simulations of non-neural cell
-  collectives do voltage-pattern attractors, gap-junction dynamics, and
-  stress-sharing networks produce measurable signatures of basal cognition
-  (persistent attractor memory storage, collective goal-directed
-  decision-making) and proto-conscious precursors (integrated information Φ,
-  metastability, causal emergence, and expanding cognitive light cones), and how
-  do these signatures quantitatively scale with tissue size, gap-junction
-  permeability, ion-channel parameters, and targeted perturbations?
+description: igh-fidelity BETSE 1.5.0 simulations of non-neural cell collectives
+  do voltage-pattern attractors, gap-junction dynamics, and stress-sharing
+  networks produce measurable signatures of basal cognition (persistent
+  attractor memory storage, collective goal-directed decision-making) and
+  proto-conscious precursors (integrated information Φ, metastability, causal
+  emergence, and expanding cognitive light cones), and how do these signatures
+  quantitatively scale with tissue size, gap-junction permeability, ion-channel
+  parameters, and targeted perturbations?
 ---
 # topic
 
