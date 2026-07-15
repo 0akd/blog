@@ -17,6 +17,6 @@ see the death of the body  carries no significance even in the process of your d
 ### Practical Steps
 
 1. identify the tendencies and leanings and only those that are harmful and useless to the body 
-2. stop that completely by creating a physical resistance againt it 
-3. 
+2. stop that completely by creating a physical resistance against it 
+3. continue to do the mission
 
